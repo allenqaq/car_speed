@@ -25,7 +25,6 @@ def frame_capture(input_path, output_path):
 
 
 if __name__ == '__main__':
-
     # Calling the function
     print "start----"
     frame_capture("train.mp4", "train_images")
